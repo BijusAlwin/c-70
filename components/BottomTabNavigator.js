@@ -24,9 +24,9 @@ export default class BottomTabNavigator extends Component {
               //   iconName = "time";
               // }
             
-              if (route.name = "Ride") {
+              if (route.name = Ride) {
                  iconName = "bicycle";
-               } else if (route.name = "Ride History") {
+               } else if (route.name = Ride History) {
                  iconName = "time";
                }
 
